@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Kotlin_Task</string>
+    <string name="app_name">TaskKotlin</string>
+    <string name="first_page">First Page </string>
+    <string name="second_page">Second Page</string>
+    <string name="confirm">Confirm</string>
+    <string name="validateConfirm">Please choose items first</string>
+
 </resources>
